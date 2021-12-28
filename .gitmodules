@@ -1,0 +1,3 @@
+[submodule "cpp_benchmarking_framework"]
+	path = cpp_benchmarking_framework
+	url = https://github.com/Gnomorian/cpp_benchmarking_framework
