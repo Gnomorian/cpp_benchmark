@@ -152,11 +152,6 @@
   <ItemGroup>
     <ClInclude Include="include\common.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="cpp_benchmarking_framework\benchmarking_cpp_things.vcxproj">
-      <Project>{705d4594-dbcf-469c-b49c-7e051c281a95}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
